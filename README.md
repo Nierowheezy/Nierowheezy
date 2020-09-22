@@ -33,11 +33,11 @@
 
 <!-- ![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94) -->
 
-![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Omarookolosio94&show_icons=true)
+![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Nierowheezy&show_icons=true)
 
-[website]: https://omarookolosio94.github.io/matrix/
-[twitter]: https://twitter.com/Okolosio1
-[instagram]: https://instagram.com/okolosio_oghenemaro
-[linkedin]: https://www.linkedin.com/in/oghenemaro-okolosio-24653512a
+[website]: 
+[twitter]: https://twitter.com/Nierowheezy
+[instagram]: https://instagram.com/Nierowheezy
+[linkedin]: https://www.linkedin.com/in/olaniyi-olabode-b784055b/
 
  
