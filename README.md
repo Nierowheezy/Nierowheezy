@@ -35,7 +35,7 @@
 
 ![Okolosio's github stats](https://github-readme-stats.vercel.app/api?username=Nierowheezy&show_icons=true)
 
-[website]: 
+
 [twitter]: https://twitter.com/Nierowheezy
 [instagram]: https://instagram.com/Nierowheezy
 [linkedin]: https://www.linkedin.com/in/olaniyi-olabode-b784055b/
