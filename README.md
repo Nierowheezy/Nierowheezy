@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## Hi, I am Olabode Olaniyi David [website] .
+### I am Olabode Olaniyi David [website] .
 
 - 😏 I'm a Full Stack Developer (MERN Stack)!
 - 💻 I Am A Web Developer And I Design Mobile-Friendly Web Applications Using Javascript As A Core Language.
