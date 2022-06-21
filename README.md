@@ -1,5 +1,12 @@
+ 
 # 💫 About Me:
- 💫About Me :<br>🔭 I’m constantly improving my Skills.\<br> 🌱 I’m never tired of software development .\<br> 🤔 I’m looking to  Exploring New Technologies.\<br> 💬 Ask me about any tech-related stuff.\<br> 📫 How to reach me: Email - olaniyiolabode99@gmail.com\<br> 😄 Pronouns: He/His\<br> ⚡ Fun fact:  I smile everytime.
+🔭 I’m constantly improving my Skills.
+🌱 I’m never tired of Software Development.
+🤔 I love exploring New Technologies.
+💬 Ask me about any tech-related stuff.
+📫 How to reach me: Email - olaniyiolabode99@gmail.com
+😄 Pronouns: He/His
+⚡ Fun fact: I smile everytime.
 
 
 ## 🌐 Socials:
