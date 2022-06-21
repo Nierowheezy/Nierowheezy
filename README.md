@@ -1,13 +1,6 @@
  
 # 💫 About Me:
-🔭 I’m constantly improving my Skills.
-🌱 I’m never tired of Software Development.
-🤔 I love exploring New Technologies.
-💬 Ask me about any tech-related stuff.
-📫 How to reach me: Email - olaniyiolabode99@gmail.com
-😄 Pronouns: He/His
-⚡ Fun fact: I smile everytime.
-
+🔭 I’m constantly improving my Skills.<br>🌱 I’m never tired of Software Development.<br>🤔 I love exploring New Technologies.<br>💬 Ask me about any tech-related stuff.<br>📫 How to reach me: Email - olaniyiolabode99@gmail.com<br>😄 Pronouns: He/His<br>⚡ Fun fact: I smile everytime.
 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/olaniyiolabode) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Olaniyiolabode99) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nierowheezy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/olaniyi-olabode) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@olaniyiolabode99) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/user:10942270) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/__nierowheezy) 
